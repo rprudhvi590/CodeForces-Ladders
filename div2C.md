@@ -1,17 +1,5 @@
 | Index | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
-| 1 | [Lunar New Year and Number Division](https://codeforces.com/problemset/problem/1106/C) | 1000 |  |
-| 2 | [Bad Sequence](https://codeforces.com/problemset/problem/1214/C) | 1200 |  |
-| 3 | [Bracket Subsequence](https://codeforces.com/problemset/problem/1023/C) | 1200 |  |
-| 4 | [Dishonest Sellers](https://codeforces.com/problemset/problem/779/C) | 1200 |  |
-| 5 | [Birthday](https://codeforces.com/problemset/problem/1131/C) | 1200 |  |
-| 6 | [Dividing the numbers](https://codeforces.com/problemset/problem/899/C) | 1300 |  |
-| 7 | [Postcard](https://codeforces.com/problemset/problem/1099/C) | 1300 |  |
-| 8 | [Substring Game in the Lesson](https://codeforces.com/problemset/problem/1220/C) | 1300 |  |
-| 9 | [Labs](https://codeforces.com/problemset/problem/1236/C) | 1300 |  |
-| 10 | [Seat Arrangements](https://codeforces.com/problemset/problem/919/C) | 1300 |  |
-| 11 | [Table Tennis Game 2](https://codeforces.com/problemset/problem/765/C) | 1300 |  |
-| 12 | [Ehab and a Special Coloring Problem](https://codeforces.com/problemset/problem/1174/C) | 1300 |  |
 | 13 | [Phone Numbers](https://codeforces.com/problemset/problem/898/C) | 1400 |  |
 | 14 | [Servers](https://codeforces.com/problemset/problem/747/C) | 1400 |  |
 | 15 | [Constanze's Machine](https://codeforces.com/problemset/problem/1245/C) | 1400 |  |

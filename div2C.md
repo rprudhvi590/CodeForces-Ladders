@@ -1,30 +1,30 @@
-| Index | Problem | Difficulty | Solved |
-| --- | --- | --- | --- |
-| 13 | [Phone Numbers](https://codeforces.com/problemset/problem/898/C) | 1400 |  |
-| 14 | [Servers](https://codeforces.com/problemset/problem/747/C) | 1400 |  |
-| 15 | [Constanze's Machine](https://codeforces.com/problemset/problem/1245/C) | 1400 |  |
-| 16 | [Candies!](https://codeforces.com/problemset/problem/1189/C) | 1400 |  |
-| 17 | [Queen](https://codeforces.com/problemset/problem/1143/C) | 1400 |  |
-| 18 | [Three displays](https://codeforces.com/problemset/problem/987/C) | 1400 |  |
-| 19 | [Connect](https://codeforces.com/problemset/problem/1130/C) | 1400 |  |
-| 20 | [Ehab and a 2-operation task](https://codeforces.com/problemset/problem/1088/C) | 1400 |  |
-| 21 | [Maximum Median](https://codeforces.com/problemset/problem/1201/C) | 1400 |  |
-| 22 | [Sonya and Robots](https://codeforces.com/problemset/problem/1004/C) | 1400 |  |
-| 23 | [Everyone is a Winner!](https://codeforces.com/problemset/problem/1263/C) | 1400 |  |
-| 24 | [Journey](https://codeforces.com/problemset/problem/839/C) | 1500 |  |
-| 25 | [Edgy Trees](https://codeforces.com/problemset/problem/1139/C) | 1500 |  |
-| 26 | [Vladik and fractions](https://codeforces.com/problemset/problem/743/C) | 1500 |  |
-| 27 | [Coffee Break](https://codeforces.com/problemset/problem/1041/C) | 1500 |  |
-| 28 | [The Fair Nut and String](https://codeforces.com/problemset/problem/1084/C) | 1500 |  |
-| 29 | [Ayoub and Lost Array](https://codeforces.com/problemset/problem/1105/C) | 1500 |  |
-| 30 | [Sagheer and Nubian Market](https://codeforces.com/problemset/problem/812/C) | 1500 |  |
-| 31 | [Solution for Cube](https://codeforces.com/problemset/problem/887/C) | 1500 |  |
-| 32 | [Phone Numbers](https://codeforces.com/problemset/problem/940/C) | 1500 |  |
-| 33 | [Mahmoud and Ehab and the wrong algorithm](https://codeforces.com/problemset/problem/959/C) | 1500 |  |
-| 34 | [Candies](https://codeforces.com/problemset/problem/991/C) | 1500 |  |
-| 35 | [Cut 'em all!](https://codeforces.com/problemset/problem/982/C) | 1500 |  |
-| 36 | [Round Corridor](https://codeforces.com/problemset/problem/1200/C) | 1500 |  |
-| 37 | [Swap Letters](https://codeforces.com/problemset/problem/1215/C) | 1500 |  |
+ Problem | Difficulty | Solved |
+ | --- | --- |
+[Phone Numbers](https://codeforces.com/problemset/problem/898/C) | 1400 |  |
+[Servers](https://codeforces.com/problemset/problem/747/C) | 1400 |  |
+[Constanze's Machine](https://codeforces.com/problemset/problem/1245/C) | 1400 |  |
+[Candies!](https://codeforces.com/problemset/problem/1189/C) | 1400 |  |
+| 5 | [Queen](https://codeforces.com/problemset/problem/1143/C) | 1400 |  |
+| 6 | [Three displays](https://codeforces.com/problemset/problem/987/C) | 1400 |  |
+| 7 | [Connect](https://codeforces.com/problemset/problem/1130/C) | 1400 |  |
+| 8 | [Ehab and a 2-operation task](https://codeforces.com/problemset/problem/1088/C) | 1400 |  |
+| 9 | [Maximum Median](https://codeforces.com/problemset/problem/1201/C) | 1400 |  |
+| 10 | [Sonya and Robots](https://codeforces.com/problemset/problem/1004/C) | 1400 |  |
+| 11 | [Everyone is a Winner!](https://codeforces.com/problemset/problem/1263/C) | 1400 |  |
+| 12 | [Journey](https://codeforces.com/problemset/problem/839/C) | 1500 |  |
+| 13 | [Edgy Trees](https://codeforces.com/problemset/problem/1139/C) | 1500 |  |
+| 14 | [Vladik and fractions](https://codeforces.com/problemset/problem/743/C) | 1500 |  |
+| 15 | [Coffee Break](https://codeforces.com/problemset/problem/1041/C) | 1500 |  |
+| 16 | [The Fair Nut and String](https://codeforces.com/problemset/problem/1084/C) | 1500 |  |
+| 17 | [Ayoub and Lost Array](https://codeforces.com/problemset/problem/1105/C) | 1500 |  |
+| 18 | [Sagheer and Nubian Market](https://codeforces.com/problemset/problem/812/C) | 1500 |  |
+| 19 | [Solution for Cube](https://codeforces.com/problemset/problem/887/C) | 1500 |  |
+| 20 | [Phone Numbers](https://codeforces.com/problemset/problem/940/C) | 1500 |  |
+| 21 | [Mahmoud and Ehab and the wrong algorithm](https://codeforces.com/problemset/problem/959/C) | 1500 |  |
+| 22 | [Candies](https://codeforces.com/problemset/problem/991/C) | 1500 |  |
+| 23 | [Cut 'em all!](https://codeforces.com/problemset/problem/982/C) | 1500 |  |
+| 24 | [Round Corridor](https://codeforces.com/problemset/problem/1200/C) | 1500 |  |
+| 2 | [Swap Letters](https://codeforces.com/problemset/problem/1215/C) | 1500 |  |
 | 38 | [Sweets Eating](https://codeforces.com/problemset/problem/1253/C) | 1500 |  |
 | 39 | [Sequence Transformation](https://codeforces.com/problemset/problem/1059/C) | 1500 |  |
 | 40 | [A Tale of Two Lands](https://codeforces.com/problemset/problem/1166/C) | 1600 |  |

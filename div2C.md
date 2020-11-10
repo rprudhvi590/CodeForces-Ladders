@@ -1,5 +1,4 @@
  Problem | Difficulty | Solved |
- | --- | --- |
 [Phone Numbers](https://codeforces.com/problemset/problem/898/C) | 1400 |  |
 [Servers](https://codeforces.com/problemset/problem/747/C) | 1400 |  |
 [Constanze's Machine](https://codeforces.com/problemset/problem/1245/C) | 1400 |  |
